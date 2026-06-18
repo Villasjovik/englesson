@@ -1,0 +1,12 @@
+{
+  "svgPath": "/Users/lucasm4max/Desktop/Claude/operational/projekt/villa-sjovik/pitchar/englesson/englesson.svg",
+  "svgFilename": "englesson.svg",
+  "brandColor": "#080808",
+  "brandColorHex": "0x080808",
+  "dominantDetected": "#080808",
+  "isLightLogo": false,
+  "material": "metal",
+  "renderColor": "#F2EDE4",
+  "note": "Englesson officiella signatur-wordmark (handskriven, svart). Renderas i 3D som varm ljus metall (#F2EDE4) eftersom markesfargen ar ren svart och inte syns mot den morkgrona hero-bakgrunden — canonical metal-default for monokroma svarta wordmarks. VS-loggan ar guld. Hamtad fran englesson.se (Small_Englesson_Logga_Vit.png 5000x2404), inverterad till svart-pa-vit och potrace-sparad.",
+  "generatedAt": "2026-06-18T15:29:30.464Z"
+}
